@@ -1,0 +1,15 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+myvenv
+venv
+/staticfiles
+.DS_Store
+/.idea
+/.vs
+.env
+*.log
+tests.py
+test_settings.py
+selenium_tests
